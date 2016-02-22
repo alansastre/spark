@@ -189,10 +189,10 @@
     <version>1.1.9</version>
     <configuration>
         <targetClasses>
-            <param>spark*</param>
+            <param>spark.*</param>
         </targetClasses>
         <targetTests>
-            <param>spark*</param>
+            <param>spark.*</param>
         </targetTests>
             <outputFormats>
                 <outputFormat>XML</outputFormat>
