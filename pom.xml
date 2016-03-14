@@ -146,7 +146,7 @@
 	        <excludedClasses>
 	            <param>spark.StaticFilesTest</param>
 	            <param>spark.servlet.ServletTest</param>
-	             <param>spark.servlet.GzipTest</param>
+	             <param>spark.GzipTest</param>
 	          </excludedClasses>
 		<failWhenNoMutations>false</failWhenNoMutations>
 	            <outputFormats>
